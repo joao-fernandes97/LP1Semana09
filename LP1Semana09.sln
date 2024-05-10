@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntCollections", "IntCollec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualPlayer", "EqualPlayer\EqualPlayer.csproj", "{BF78CE84-C329-43CC-9ACF-D64B2CBBF68D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntGrouper", "IntGrouper\IntGrouper.csproj", "{A0B3EA77-530F-4DAB-938A-2FB4F0EE1C34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{BF78CE84-C329-43CC-9ACF-D64B2CBBF68D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF78CE84-C329-43CC-9ACF-D64B2CBBF68D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF78CE84-C329-43CC-9ACF-D64B2CBBF68D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0B3EA77-530F-4DAB-938A-2FB4F0EE1C34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B3EA77-530F-4DAB-938A-2FB4F0EE1C34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B3EA77-530F-4DAB-938A-2FB4F0EE1C34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B3EA77-530F-4DAB-938A-2FB4F0EE1C34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
