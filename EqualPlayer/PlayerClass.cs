@@ -9,3 +9,4 @@ namespace EqualPlayer
         Controller,
         Marksman
     }
+}
